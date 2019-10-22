@@ -35,7 +35,7 @@ LDA topic modeling results
 ![](images/lda.PNG)
 <br/><br/>
 <br/><br/>
-[Link to LDA results](LDA_topic_modeling_result.html)
+[Link to LDA results](https://github.com/sorbite/cuisine-clustering/LDA_topic_modeling_result.html)
 
 Driving ingredients extracted
 <br/><br/>
