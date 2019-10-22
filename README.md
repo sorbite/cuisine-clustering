@@ -32,9 +32,10 @@
 
 LDA topic modeling results
 <br/><br/>
-![](images/lda.png)
+![](images/lda.PNG)
 <br/><br/>
 <br/><br/>
+[Link to LDA results](LDA_topic_modeling_result.html)
 
 Driving ingredients extracted
 <br/><br/>
