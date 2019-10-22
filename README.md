@@ -20,32 +20,32 @@
 
 2D-PCA results
 <br/><br/>
-![image](https://github.com/sorbite/cuisine-clustering/images/2d-pca.png)
+![](images/2d-pca.png)
 <br/><br/>
 <br/><br/>
 
 3D-PCA results
 <br/><br/>
-![image](https://github.com/sorbite/cuisine-clustering/images/3d-pca.png)
+![](images/3d-pca.png)
 <br/><br/>
 <br/><br/>
 
 LDA topic modeling results
 <br/><br/>
-![image](https://github.com/sorbite/cuisine-clustering/images/lda.png)
+![](images/lda.png)
 <br/><br/>
 <br/><br/>
 
 Driving ingredients extracted
 <br/><br/>
-![image](https://github.com/sorbite/cuisine-clustering/images/keyword.png)
+![](images/keyword.png)
 <br/><br/>
 <br/><br/>
 
 
 Cuisine clustering
 <br/><br/>
-![image](https://github.com/sorbite/cuisine-clustering/images/cuisine.png)
+![](images/cuisine.png)
 <br/><br/>
 <br/><br/>
 
